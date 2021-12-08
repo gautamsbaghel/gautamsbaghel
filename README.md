@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamsbaghel" alt="gautamsbaghel" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently working on  **Probelm Solving Skills**
 
 - 💬 Ask me about **java,python,html,css,data science and ml.**
 
